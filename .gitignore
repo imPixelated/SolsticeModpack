@@ -1,0 +1,4 @@
+# .gitignore
+runtime/
+save.json
+launcher_log.txt
